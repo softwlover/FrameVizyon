@@ -1,6 +1,6 @@
 <h1> FrameFizyon </h1>
 
-Proje; Yeni bakış açısıyla oluşturulmuş dinamik film sitesidir.
+Proje; Yeni bakış açısıyla oluşturulmuş Full Responsive film sitesidir.
 
 <h2> kullanılan Teknolojiler</h2>
 
